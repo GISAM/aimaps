@@ -1,0 +1,4 @@
+ 
+# aimaps module
+
+::: aimaps.aimaps
